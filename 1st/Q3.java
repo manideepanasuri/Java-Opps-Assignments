@@ -1,3 +1,11 @@
+/*
+ *3. Write a java program to create two arrays(Unsorted) then sort them by using the best sorting algorithm (Recommended quick sort) then merge these two arrays.
+      Testcases:
+          1) array 1: 2 9 7 11 12
+      Array 2: 8 10 3 1 16
+      Output: 1 2 3 7 8 9 10 11 12 16  
+*/
+
 public class Q3 {
   public static void quickSort(int[] array,int low,int high){
     if(low>=high){return ;}

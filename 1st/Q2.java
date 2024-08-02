@@ -1,3 +1,6 @@
+/*
+  Write a program in Java to find transpose of a given matrix.
+ */
 import java.util.Scanner;
 
 class Q2{

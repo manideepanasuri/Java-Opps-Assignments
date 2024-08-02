@@ -1,3 +1,13 @@
+/*
+    4. Write a java program to left and right rotate the array by a given number of positions. (Number of positions to shift must be read from the console.)
+      Testcases:
+          1) Array: 9 5 7 2 6 3 8
+      Positions: 3
+      Output:
+      Left rotate:  2 6 3 8 9 5 7
+      Right rotate: 6 3 8 9 5 7 2
+*/
+
 import java.util.Scanner;
 
 class Q4{

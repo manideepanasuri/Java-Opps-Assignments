@@ -1,3 +1,6 @@
+/*
+  Write a program in Java for multiplication of two square Matrices.
+*/
 
 import java.util.Scanner;
 

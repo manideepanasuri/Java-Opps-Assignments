@@ -1,3 +1,7 @@
+/*
+	Write a program in Java to determine whether a given matrix is a sparse matrix or not.
+ */
+
 import java.util.Scanner;
 
 
