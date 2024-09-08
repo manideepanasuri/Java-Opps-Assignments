@@ -105,7 +105,7 @@ class list{
   }
   boolean migrate(String rollNo,String departmentName,int faculty){
     Student temp=head;
-    while(temp.next!=null){
+    while(temp!=null){
       if(temp.rollNo.equals(rollNo)){
         temp.departmentName=departmentName;
         temp.faculty=faculty;
