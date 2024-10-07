@@ -18,6 +18,7 @@ class Q1{
 		for(int i=0;i<n;i++){
 			for(int j=0;j<n;j++){
 				obj=new Scanner(System.in);
+				
 				int temp=obj.nextInt();
 				array[i][j]=temp;
 				if(array[i][j]==0){zeroCount++;}
