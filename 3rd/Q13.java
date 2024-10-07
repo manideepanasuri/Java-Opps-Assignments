@@ -12,7 +12,7 @@ public class Q13 {
     boolean o=false;
 
     boolean u=false;
-    p.toLowerCase();
+    p=p.toLowerCase();
 
    if(p.contains("a")){a=true;}
    if(p.contains("e")){e=true;}

@@ -17,6 +17,7 @@ public class Q1 {
         break;
       }
     }
+    System.out.println("Time elapsed:"+(System.currentTimeMillis()-milli)+" ms");
     System.out.println("main thread exiting");
   }
 }
